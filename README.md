@@ -12,7 +12,7 @@ Feature:
 - 记录阅读进度，更流畅的阅读体验
 - 自适应宽度或高度，支持单/双页模式切换
 
-![首页列表](https://i.postimg.cc/G2T3ZD6R/eriri.png)()
-![添加目录](https://i.postimg.cc/XYMVCXZ1/eriri.png)()
-![双页模式](https://i.postimg.cc/3x5TRRW8/eriri.png)()
-![单页模式](https://i.postimg.cc/zfnWMpPC/eriri.png)()
+![首页列表](https://i.postimg.cc/G2T3ZD6R/eriri.png)
+![添加目录](https://i.postimg.cc/XYMVCXZ1/eriri.png)
+![双页模式](https://i.postimg.cc/3x5TRRW8/eriri.png)
+![单页模式](https://i.postimg.cc/zfnWMpPC/eriri.png)
